@@ -1,1 +1,8 @@
-/home/heowbert/resources/wiki-journal/pages/uLisp.md
+- build:
+	- Arduino IDE
+	- [Adafruit Neo Trinkey](http://www.ulisp.com/show?49K5)
+	- [ARM assembler overview](http://www.ulisp.com/show?2YRU)
+	- steps
+		- burn
+		- copy [ARM assembler](http://www.ulisp.com/list?2YZH)
+		- copy extras.lisp
